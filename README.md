@@ -6,7 +6,7 @@
 
 | Экран "Валюты" (Список) | Экран "Валюты" (Ввод суммы) | Экран "Обмен" |
 | :---: | :---: | :---: |
-| <img width="562" alt="Список валют" src="https://github.com/user-attachments/assets/43d726e9-9ad9-4619-b45b-d05855fca4a1" /> | <img width="562" alt="Ввод суммы" src="https://github.com/user-attachments/assets/35a644db-0e32-4f7f-a67a-352c6549e724" /> | <img width="562" alt="Экран обмена" src="https://github.com/user-attachments/assets/1f6897d2-4e98-4556-a414-640824c9828a" /> |
+| <img width="562" alt="Список валют" src="https://github.com/user-attachments/assets/43d726e9-9ad9-4619-b45b-d05855fca4a1" /> | <img width="562" alt="Обмен валют" src="https://github.com/user-attachments/assets/35a644db-0e32-4f7f-a67a-352c6549e724" /> | <img width="562" alt="История транзакций" src="https://github.com/user-attachments/assets/1f6897d2-4e98-4556-a414-640824c9828a" /> |
 
 ## ✨ Функционал
 
